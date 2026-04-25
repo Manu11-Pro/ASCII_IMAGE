@@ -1,0 +1,25 @@
+Metadata-Version: 2.4
+Name: ASCII_IMAGE_PY
+Version: 0.1.0
+Summary: Bitmap to ASCII Image Generator using Python
+Author: Manu11-Pro
+License: MIT
+Project-URL: Homepage, https://github.com/Manu11-Pro/ASCII_IMAGE
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: license-file
+
+# ASCII_IMAGE
+
+This is an Image to ASCII generator made in Python!
+
+This Project uses built-in Python libraries to convert Bitmap to ASCII!
+
+## How to use
+
+- Select the Bitmap Image when the file dialog shows up!
+
+- Select the directory as the destination for ASCII Converted Image!

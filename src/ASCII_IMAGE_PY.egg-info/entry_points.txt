@@ -1,0 +1,2 @@
+[console_scripts]
+convert_to_ascii = ascii_image.main:main
