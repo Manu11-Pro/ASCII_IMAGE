@@ -1,7 +1,7 @@
 [project]
-name = "IMAGE_TO_ASCII"
+name = "ASCII_IMAGE_PY"
 version = "0.1.0"
-description = "Bitmap to ASCII Image Generator"
+description = "Bitmap to ASCII Image Generator using Python"
 readme = "README.md"
 authors = [
     { name = "Manu11-Pro" }
