@@ -1,4 +1,4 @@
-from utils import path_of_file_to_upload ,output
+from .utils import path_of_file_to_upload ,output
 
 def char_to_use(val):
     if val > 230:

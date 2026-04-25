@@ -6,6 +6,7 @@ src/ASCII_IMAGE_PY.egg-info/SOURCES.txt
 src/ASCII_IMAGE_PY.egg-info/dependency_links.txt
 src/ASCII_IMAGE_PY.egg-info/entry_points.txt
 src/ASCII_IMAGE_PY.egg-info/top_level.txt
+src/ascii_image/__init__.py
 src/ascii_image/ascii_to_image_logic.py
 src/ascii_image/gui.py
 src/ascii_image/main.py
