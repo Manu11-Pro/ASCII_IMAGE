@@ -1,4 +1,3 @@
-# from utils import *
 import tkinter as tk
 from tkinter import filedialog
 import os
@@ -11,3 +10,6 @@ print(file_to_upload)
 
 filename, ext = os.path.splitext(file_to_upload)
 ext = ext.lower()
+
+output_dir = tk.filedialog.askdirectory(title= "Directory ASCII_IMAGE File to be moved to")
+output = os.path.join(output_dir, f"{filename}.txt")

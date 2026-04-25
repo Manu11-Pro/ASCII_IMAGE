@@ -1,4 +1,4 @@
-from utils import path_of_file_to_upload ,filename
+from utils import path_of_file_to_upload ,output
 
 def char_to_use(val):
     if val > 230:
@@ -51,8 +51,6 @@ with open(path_of_file_to_upload, "rb") as i:
 
         i.read(padding)
         every_rows.append(string_row)
-
-output = f"{filename}.txt"
 
 with open(output, "w") as j:
     for row in reversed (every_rows):
