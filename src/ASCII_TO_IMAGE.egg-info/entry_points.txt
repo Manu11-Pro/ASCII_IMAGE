@@ -1,2 +1,2 @@
 [console_scripts]
-organise = ascii_image.main:main
+convert_to_ascii = ascii_image.main:main
