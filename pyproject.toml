@@ -1,5 +1,5 @@
 [project]
-name = "ASCII_IMAGE"
+name = "ASCII_TO_IMAGE"
 version = "0.1.0"
 description = "Bitmap to ASCII Image Generator"
 readme = "README.md"
@@ -21,7 +21,7 @@ dependencies = []
 package-dir = {"" = "src"}
 
 [project.scripts]
-organise = "ascii_image.main:main"
+convert_to_ascii = "ascii_image.main:main"
 
 [build-system]
 requires = ["setuptools>=61.0", "wheel"]
