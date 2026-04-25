@@ -1,6 +1,6 @@
 [project]
 name = "ASCII_TO_IMAGE"
-version = "0.1.0"
+version = "0.1.1"
 description = "Bitmap to ASCII Image Generator"
 readme = "README.md"
 authors = [
