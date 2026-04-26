@@ -1,5 +1,9 @@
 from .ascii_to_image_logic import *
 
-if __name__ == "__main__":
+def main():
     print("Image Converted to ASCII")
     print("Process Complete")
+
+
+if __name__ == "__main__":
+    main()
